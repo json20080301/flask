@@ -39,6 +39,9 @@ http://mirror.nodesdirect.com/mariadb//mariadb-10.1.21/winx64-packages/mariadb-1
 https://pypi.python.org/packages/a4/c4/c15457f261fda9839637de044eca9b6da8f55503183fe887523801b85701/PyMySQL-0.7.9.tar.gz#md5=bf82311ac2df4c43adad003a8c805b90
 
 
+http://pandas.pydata.org/pandas-docs/stable/io.html#schema-support
+
+
 
 
 
